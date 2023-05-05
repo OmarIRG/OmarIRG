@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Islam Ragab</h1>
-<h3 align="center">A passionate Embedded system developer from egypt</h3>
+<h3 align="center">A passionate Embedded system developer from Egypt</h3>
 
 - 🔭 I’m currently working on **Modified payment app with c++**
 
@@ -8,6 +8,8 @@
 - 💬 Ask me about **Embedded system**
 
 - 📫 How to reach me **omar.islam.rgb@gmail.com**
+
+![- Find   Share on GIPHY](https://user-images.githubusercontent.com/115796254/236368548-9532f57f-94eb-4202-af3e-6f97e5c30f52.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
