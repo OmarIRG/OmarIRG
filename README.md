@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Islam Ragab</h1>
-<h3 align="center">A passionate Embedded system developer from Egypt</h3>
+<h3 align="center">A passionate Embedded system enthusiast from Egypt</h3>
 
 - 🔭 I’m currently working on **Modified payment app with c++**
 
