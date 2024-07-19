@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Islam Ragab</h1>
 <h3 align="center">A passionate Embedded system enthusiast from Egypt</h3>
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working on **Getting Experience**
 
-- 🌱 I’m currently learning **Arm And Rtos**
+- 🌱 I’m currently learning **DEVOPS**
 
 - 💬 Ask me about **Embedded system**
 
