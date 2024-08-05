@@ -10,7 +10,7 @@
 - 📫 How to reach me **omar.islam.rgb@gmail.com**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/115796254/236368548-9532f57f-94eb-4202-af3e-6f97e5c30f52.gif" alt="Find and Share on GIPHY" width="600"/>
+  <img src="https://user-images.githubusercontent.com/115796254/236368548-9532f57f-94eb-4202-af3e-6f97e5c30f52.gif" alt="Find and Share on GIPHY" width="400"/>
 </div>
 
 ---
