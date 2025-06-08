@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Islam Ragab</h1>
-<h3 align="center">A passionate DevOps Enthusiast from Egypt : 1x AWS DEPI and DEBI Graduate</h3>
+<h3 align="center">A passionate DevOps Enthusiast from Egypt : 2x AWS DEPI and DEBI Graduate</h3>
 
 - 🔭 I’m currently working on **Getting Experience**
 
